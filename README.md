@@ -1,2 +1,2 @@
 # hello-world
-test
+remove the word 'test'
